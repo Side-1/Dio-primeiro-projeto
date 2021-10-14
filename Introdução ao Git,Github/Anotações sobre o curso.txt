@@ -1,0 +1,7 @@
+Comandos Básicos
+cd
+dir
+mkdir
+del/rmdir
+git status
+git add*, git add (nome do arquivo), (git add .)
